@@ -1,0 +1,11 @@
+
+Plus One
+
+Given a non-negative number represented as an array of digits, plus one to the
+number.
+
+题目有点费解，明白之后很简单，给一个用数组表示的数字，对它加一，返回计算结果，
+这个结果也要用数组表示。
+
+The digits are stored such that the most significant digit is at the head of the
+list.
