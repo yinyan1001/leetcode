@@ -9,7 +9,8 @@ struct TreeNode {
 	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
-#include "solution1.h"
+//#include "solution1.h"
+#include "solution2.h"
 
 int main(void)
 {
