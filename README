@@ -5,13 +5,3 @@ https://oj.leetcode.com/problems
 预期的感觉：思路清晰顺畅。
 经验：典型算法、解题思路都是可以通过练习积累的。
 
-------
-
-比较好的题目:
-
-025-generate-parentheses: 有助于练习如何使用回溯法解决问题
-
-007-binary-tree-preorder-traversal,
-009-binary-tree-inorder-traversal,
-030-binary-tree-postorder-traversal: 练习非递归法遍历树
-
